@@ -56,8 +56,8 @@ Buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
 Sesuaikan ChatID* dengan user yang akan menggunakan bot, bisa lebih dari satu, pisahkan dengan koma.
 
 ## *Note:
-Untuk mendapatkan Chat ID, buka telegram, search <code>@getYourID_bot</code> atau https://t.me/getyourid_bot
-
+Untuk mendapatkan Chat ID, buka telegram, search <code>@getYourID_bot</code> atau https://t.me/getyourid_bot <br>
+Jika tidak bisa, gunakan alternatif ini https://t.me/userinfobot
 
 ## Contact
 Telegram: https://t.me/mastgh <br>
